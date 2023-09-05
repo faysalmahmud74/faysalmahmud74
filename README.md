@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faysal Mahmud</h1>
 <h3 align="center">A passionate Programmer | Web Developer | Graphic Designer</h3>
 
-- 🔭 I’m currently working as an Intern at **Xeon Technology Limited**
+- 🔭 I’m currently working at **Xeon Technology Limited**
 
 - 🌱 I’m currently learning **Asp.Net, React Js**
 
