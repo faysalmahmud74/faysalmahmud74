@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Faysal Mahmud</h1>
 <h2 align="center">
-  A passionate Programmer || Web Developer || Tech Enthusiast
+  A passionate Programmer · Web Developer · Tech Enthusiast
 </h2>
 
 ###
