@@ -127,10 +127,7 @@
   />
 </div>
 
-<div align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=faysalmahmud74&theme=neon&hide_border=false"
-    height="150"
-    alt="streak graph"
-  />
+###
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=faysalmahmud74&theme=neon&hide_border=false)
 </div>
