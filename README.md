@@ -125,7 +125,6 @@
     height="150"
     alt="languages graph"
   />
-</div>
 
 ###
 
